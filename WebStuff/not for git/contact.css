@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Germania+One|Libre+Barcode+39+Text|Lobster');
+/* font-family: 'Germania One', cursive;
+font-family: 'Libre Barcode 39 Text', cursive;
+font-family: 'Lobster', cursive; */
+html{
+	background-color: #BD2031;
+	background-image: url("cat.jpg");
+	background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+body{
+text-align: center;
+font-family: 'Germania One', cursive;
+}
+.bar {font-family: 'Libre Barcode 39 Text', cursive;
+font-size: 50px;
+}

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Arvo:700|Jaldi|VT323');
+/*bold and san= font-family: 'Anton', sans-serif;
+regula and not bold= font-family: 'Jaldi', sans-serif;
+bold and serif= font-family: 'Arvo', serif;
+retro looking= font-family: 'VT323', monospace;*/
+html{ background-color: #BD2031;
+
+}
+h1 {font-size: 40px;
+	color: #228b22;
+	font-family: 'Anton', sans-serif;
+	font-size: 50px;
+	 text-align: center;
+}
+h3 {
+	font-family: 'VT323', monospace;
+	color:#00ff00;
+	font-size: 25px;
+}
+img {  	   display: block;
+    margin: auto;
+width: 20%;}
+li {font size 25px;}
+	p {
+		font-family: 'Jaldi', sans-serif;
+		font-size: 20px;
+	}
+
+
